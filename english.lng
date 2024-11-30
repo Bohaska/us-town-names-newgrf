@@ -2,3 +2,4 @@
 STR_GRF_NAME:US Census Town Names {VERSION}
 STR_GRF_DESCRIPTION:A set of {ORANGE}over 14,000 real town and city names{BLACK} from the {SILVER}US Census{BLACK}. Town name likelihoods are weighted by population logarithmically, so cities with higher populations have slightly higher chances of appearing.{}Cleaned data comes from {SILVER}cityquiz.io{BLACK}.{}NewGRF creation uses some code from {SILVER}Better World Cities{BLACK}.
 STR_STYLES:United States
+STR_GRF_URL:https://github.com/Bohaska/us-town-names-newgrf
