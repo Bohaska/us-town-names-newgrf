@@ -33,7 +33,7 @@ A set of over 14,000 real town and city names from the US Census, for use in Ope
 A set of over 14,000 real town and city names from the US Census, to bring an American feel into your game. 
 
 US Census Town Names
-MD5Hash:  98674315c06fa81964e32ad2fbf159f6
+MD5Hash:  6e474f9b39a6812078b4d15f0e2b462e
 Version:  v1.0.0
 GRF ID:   424F4801
 
